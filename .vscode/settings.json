@@ -1,3 +1,4 @@
 {
-  "emulator.emulatorPath": "C:\\Users\\ryanb\\AppData\\Local\\Android\\Sdk"
+  "emulator.emulatorPath": "~/Library/Android/sdk/emulator",
+  "emulator.emulatorPathWindows": ""
 }
